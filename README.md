@@ -1,4 +1,4 @@
-# UMC-6th-iOS-Study
+# UMC-7th-iOS-Study
 💻 Git clone 및 Branch 생성
 노션의 1,2주차 세션에서 깃 관련 내용을 참고해주세요 :)
 
