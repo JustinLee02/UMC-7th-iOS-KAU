@@ -20,7 +20,7 @@ git branch : 현재 branch 확인
 
 
 🏡 작업공간 생성
-UMC-6th-iOS-Study (프로젝트 루트 디렉토리)
+UMC-7th-iOS-Study (프로젝트 루트 디렉토리)
 본인 github 아이디명의 디렉토리 (본인 github 아이디로 설정해주세요!)
 해당 주차 혹은 워크북명 (ex. week1, platform)
 본인 github 아이디명의 디렉토리부터 만들고 시작하시면 됩니다! 😊 
