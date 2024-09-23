@@ -14,9 +14,22 @@
 		5EB7D0F72CA18A6700D17495 /* Kream.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Kream.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5EB7D1092CA18A6800D17495 /* Exceptions for "Kream" folder in "Kream" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5EB7D0F62CA18A6700D17495 /* Kream */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		5EB7D0F92CA18A6700D17495 /* Kream */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5EB7D1092CA18A6800D17495 /* Exceptions for "Kream" folder in "Kream" target */,
+			);
 			path = Kream;
 			sourceTree = "<group>";
 		};
